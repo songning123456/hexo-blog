@@ -106,3 +106,9 @@ deploy:
   type: git
   repo: https://github.com/songning123456/hexo-blog.git
   branch: master
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
