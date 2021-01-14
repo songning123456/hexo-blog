@@ -939,3 +939,7 @@ images: images
 
 # Theme version
 version: 6.0.4
+
+# DaoVoice
+daovoice: true
+daovoice_app_id: 516f8691
