@@ -940,6 +940,10 @@ images: images
 # Theme version
 version: 6.0.4
 
+# Fireworks and love
+fireworks: false
+love: true
+
 # DaoVoice
 daovoice: true
 daovoice_app_id: 516f8691
