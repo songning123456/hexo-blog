@@ -278,7 +278,7 @@ wechat_subscriber:
 # Reward
 reward_comment: 你可以对我打赏了哦
 wechatpay: /images/wechatpay.jpg
-alipay: /images/alipay.jpg
+#alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
 # Related popular posts
