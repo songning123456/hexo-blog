@@ -2,7 +2,7 @@
 title: Java的四个基本特性？
 date: 2021-01-14 14:04:30
 tags: [面试, Java]
-category: [Java, 基础]
+category: [面试, Java, 基础]
 ---
 
 # 抽象
