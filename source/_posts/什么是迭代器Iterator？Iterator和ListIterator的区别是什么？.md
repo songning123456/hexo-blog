@@ -1,7 +1,8 @@
 ---
 title: 什么是迭代器(Iterator)？Iterator和ListIterator的区别是什么？
 date: 2021-01-14 18:52:56
-tags:
+tags: [面试, Java]
+category: [面试, Java, 集合]
 ---
 
 Iterator接口提供了很多对集合元素进行迭代的方法。每一个集合类都包含了可以返回迭代器实例的迭代方法。迭代器可以在迭代的过程中删除底层集合的元素。克隆(cloning)或者是序列化(serialization)的语义和含义是跟具体的实现相关的。因此，应该由集合类的具体实现来决定如何被克隆或者是序列化。
