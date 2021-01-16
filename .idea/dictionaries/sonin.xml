@@ -2,6 +2,7 @@
   <dictionary name="sonin">
     <words>
       <w>dubbo</w>
+      <w>failfast</w>
       <w>setnx</w>
       <w>znode</w>
     </words>
