@@ -183,9 +183,10 @@ links_layout: block
 links:
   面试宝典: http://view.sonin.cn
   算法宝典: http://algo.sonin.cn
+  advanced-java: https://doocs.gitee.io/advanced-java/#/
+  bugstack虫洞栈: https://bugstack.cn/
   labuladong的算法小抄: https://labuladong.gitbook.io/algo/
   labuladong算法题解: https://mp.weixin.qq.com/s/RdxxxiBZk84xCInKcAk9DA
-  百度一下，你就知道: http://www.baidu.com/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
